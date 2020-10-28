@@ -16,4 +16,5 @@ The Bevics Church App Features:
 
 Playstore demo <a href="https://play.google.com/store/apps/details?id=com.bevics.church">Link</a>
 
-![2](https://user-images.githubusercontent.com/18662989/50330158-457b5300-050b-11e9-9250-6d02a348c139.jpg)
+![2](https://play-lh.googleusercontent.com/YX5-ITdB5f9wDH3Y5jhtVmCtjNz2jWov4PqFA7Y3kvfT-_xkH6Vyr-KcLoluq61KSw=w1366-h600-rw)
+![2](https://play-lh.googleusercontent.com/RmTSqUAAf0_mev4Phplhz7MYubzd9P1USeUOi3PTMjLpTTg5DkzSadn4K6Jq9NdIFx8=w1366-h600-rw)
